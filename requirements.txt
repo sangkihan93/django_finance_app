@@ -1,0 +1,5 @@
+Django==4.x.x
+psycopg2-binary
+requests
+django-environ
+matplotlib
